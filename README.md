@@ -14,7 +14,6 @@ At the end of this lesson, learners will be able to:
 
 ---
 
-Test push
 
 ## :page_facing_up: Classroom Assignments
 
